@@ -87,7 +87,7 @@ https://drive.google.com/file/d/1u0X9xw7-6uIE6u2lQMcIoT7aXsAzwbFQ/view?usp=shari
 - fazer o servo motor rotacionar com uma fluidez maior.
   
  ## 🔗 Link do Vídeo de Funcionamento:
- https://drive.google.com/file/d/1OJPM9WZ1L2_AfELuWRJ2WBmkdfB9j5mP/view?usp=drivesdk
+https://drive.google.com/file/d/1PT7HQALPs8PjhMQnsvt4F8gI7Q_qn7_d/view?usp=drive_link
 
  ## Contribuições 🤝
 

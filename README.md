@@ -73,6 +73,11 @@ void pwm_setup()
 
   ```
  gpio_set_function(PWM_motor, GPIO_FUNC_PWM), habilitar o pino GPIO como PWM.   uint slice = pwm_gpio_to_slice_num, obter o canal PWM da GPIO.   pwm_set_clkdiv, define o divisor de clock do PWM.   pwm_set_wrap, definir o valor de wrap.    pwm_set_enabled, habilita o pwm no slice correspondente.
+
+## Reação do LED RGB em relação ao  mesmo código.
+
+Primeiro o LED RGB na cor azul começa com uma intensidade forte, depois a intensidade diminui pela metade , e depois reduz mais ainda, logo em seguida o Led fica em um loop entre a intensidade mais baixa até a intensidade mais forte, a demosntração acontece no video logo abaixo👇.
+ 
 ## Diagrama de Conexões 💡:
 
 https://drive.google.com/file/d/1u0X9xw7-6uIE6u2lQMcIoT7aXsAzwbFQ/view?usp=sharing
@@ -82,7 +87,7 @@ https://drive.google.com/file/d/1u0X9xw7-6uIE6u2lQMcIoT7aXsAzwbFQ/view?usp=shari
 - fazer o servo motor rotacionar com uma fluidez maior.
   
  ## 🔗 Link do Vídeo de Funcionamento:
- https://drive.google.com/file/d/1OJPM9WZ1L2_AfELuWRJ2WBmkdfB9j5mP/view?usp=drivesdk
+https://drive.google.com/file/d/1PT7HQALPs8PjhMQnsvt4F8gI7Q_qn7_d/view?usp=drive_link
 
  ## Contribuições 🤝
 

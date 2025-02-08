@@ -9,7 +9,7 @@
 
 
 
-#define PWM_motor 12 //pino do motor conectado a GPIO como PWM
+#define PWM_motor 22 //pino do motor conectado a GPIO como PWM
 const uint16_t WRAP_PERIOD = 50000; //valor máximo do contador - WRAP
 const float PWM_DIVISER = 50.0; //divisor do clock para o PWM
 const uint16_t LED_STEP = 12.5; // 5 us --> 20000 us/ 5us = 4000 --> WRAP / 4000 -> 50000/4000 -> 12.5

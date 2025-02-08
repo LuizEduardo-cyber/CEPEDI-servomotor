@@ -76,7 +76,7 @@ void pwm_setup()
 
 ## Reação do LED RGB em relação ao  mesmo código.
 
-Primeiro o LED RGB começa com uma intensidade forte, depois reduz um pouco a intensidade, e depois reduz mais ainda, logo em seguida o Led fica em um loop entre a intensidade mais baixa até a intensidade mais forte, a demosntração acontece no video logo abaixo👇.
+Primeiro o LED RGB começa com uma intensidade forte, depois a intensidade diminui pela metade , e depois reduz mais ainda, logo em seguida o Led fica em um loop entre a intensidade mais baixa até a intensidade mais forte, a demosntração acontece no video logo abaixo👇.
  
 ## Diagrama de Conexões 💡:
 

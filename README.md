@@ -89,3 +89,9 @@ https://drive.google.com/file/d/1u0X9xw7-6uIE6u2lQMcIoT7aXsAzwbFQ/view?usp=shari
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ## 📞 Contato
+
+- 👤 **Autor**: Luiz Eduardo Soares Ferreira.
+ 
+- 📧 **E-mail**: luizeduardosoaresferreira942@gmail.com 
+
+--- 
